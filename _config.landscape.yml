@@ -1,0 +1,55 @@
+# Landscape Theme Configuration
+
+# Menu
+menu:
+  Home: /
+  Archives: /archives/
+  Categories: /categories/
+  Tags: /tags/
+
+# Sidebar
+sidebar:
+  avatar: /images/avatar.jpg
+  # Whether show all articles count in sidebar
+  show_count: true
+
+# Fancybox
+fancybox: true
+
+# Disqus
+# disqus_shortname:
+
+# Valine
+# valine:
+#   enable: false
+#   appId: your_app_id
+#   appKey: your_app_key
+#   placeholder: Leave a comment
+#   pageSize: 10
+#   avatar: mm
+#   lang: en
+
+# Google Analytics
+# google_analytics:
+
+# Highlight.js
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+
+# RSS\# rss: /atom.xml
+
+# Logo
+# logo: /images/logo.png
+
+# Social links
+social:
+  # Twitter: https://twitter.com/
+  # GitHub: https://github.com/
+
+# Footer
+footer:
+  since: 2025
+  powered: Hexo & Landscape
