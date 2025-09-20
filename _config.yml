@@ -102,6 +102,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/yourusername/yourusername.github.io.git # 替换为你的GitHub仓库地址
-  branch: main # 部署分支
+  repo: git@github.com:gzl001116/wangzhan.git
+  branch: gh-pages
   message: 'Site updated: {{ now(\'YYYY-MM-DD HH:mm:ss\') }}'
